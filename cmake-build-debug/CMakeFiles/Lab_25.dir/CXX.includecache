@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sveta/Documents/BGTU/Programming/Labs/Lab_25/task2/task2.cpp
+task2.h
+/Users/sveta/Documents/BGTU/Programming/Labs/Lab_25/task2/task2.h
+
+/Users/sveta/Documents/BGTU/Programming/Labs/Lab_25/task2/task2.h
+iostream
+-
+utility
+-
+vector
+-
+

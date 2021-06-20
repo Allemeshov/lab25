@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab_25.dir/main.cpp.o CMakeFiles/Lab_25.dir/task1/task1.cpp.o CMakeFiles/Lab_25.dir/task2/task2.cpp.o CMakeFiles/Lab_25.dir/task3/task3.cpp.o  -o Lab_25 
